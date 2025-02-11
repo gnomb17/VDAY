@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wicked Valentine's Day Surprise</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🎭 A Wicked Valentine's Day 🎭</h1>
+        <p>Celebrating love, magic, and a night to remember!</p>
+    </header>
+
+    <section class="intro">
+        <h2>The Surprise</h2>
+        <p>For this special Valentine's Day, I planned a **cozy and enchanting 'Wicked' movie night** for Alice. Inspired by her love for musicals, I transformed our home theater into a magical setting for the ultimate experience.</p>
+    </section>
+
+    <section class="details">
+        <h2>🌟 Event Details 🌟</h2>
+        <ul>
+            <li>**Theme**: Wicked-inspired green and gold decor</li>
+            <li>**Drink**: Emerald Elixir Mocktail 🍹</li>
+            <li>**Flowers**: Elphaba’s dark roses & Glinda’s pink peonies 🌹</li>
+            <li>**Playbill**: A custom-made program featuring Pepper as part of the cast! 🐶</li>
+            <li>**Framed Quote**: “Because I knew you, I have been changed for good.”</li>
+        </ul>
+    </section>
+
+    <section class="photo">
+        <h2>📸 A Glimpse of the Night</h2>
+        <p>Check out some photos from the evening below:</p>
+        <img src="wicked-decor.jpg" alt="Wicked-themed decorations">
+        <img src="emerald-elixir.jpg" alt="Emerald Elixir mocktail">
+    </section>
+
+    <footer>
+        <p>💚 A Valentine’s Day to remember 💚</p>
+    </footer>
+</body>
+</html>
